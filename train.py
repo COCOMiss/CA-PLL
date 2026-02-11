@@ -260,7 +260,7 @@ def main():
         dist_file=conf.dist_file,
         radius=conf.radius,
         max_candidates=conf.max_candidates,
-        semantic_sample_thresh=args.semantic_thresh, # 传入参数
+        semantic_sample_thresh=args.semantic_thresh,
         device=conf.device
     )
     
