@@ -1,0 +1,377 @@
+Accessories Store
+African Restaurant
+Airport
+Airport Gate
+Airport Lounge
+Airport Terminal
+American Restaurant
+Animal Shelter
+Antique Shop
+Aquarium
+Arcade
+Art Gallery
+Art Museum
+Arts & Crafts Store
+Arts & Entertainment
+Asian Restaurant
+Assisted Living
+Athletic & Sport
+Athletics & Sports
+Auditorium
+Australian Restaurant
+Automotive Shop
+BBQ Joint
+Bagel Shop
+Bakery
+Bank
+Bar
+Baseball Field
+Baseball Stadium
+Basketball Court
+Basketball Stadium
+Beach
+Bed & Breakfast
+Beer Garden
+Bike Rental / Bike Share
+Bike Shop
+Board Shop
+Boarding House
+Boat or Ferry
+Bookstore
+Boutique
+Bowling Alley
+Brazilian Restaurant
+Breakfast Spot
+Brewery
+Bridal Shop
+Bridge
+Building
+Burger Joint
+Burrito Place
+Bus Line
+Bus Station
+Butcher
+Cafeteria
+Caf�
+Caf��
+Camera Store
+Campaign Office
+Campground
+Candy Store
+Capitol Building
+Car Dealership
+Car Wash
+Caribbean Restaurant
+Casino
+Cemetery
+Cheese Shop
+Chinese Restaurant
+Church
+City
+City Hall
+Climbing Gym
+Clothing Store
+Cocktail Bar
+Coffee Shop
+College & University
+College Academic Building
+College Administrative Building
+College Arts Building
+College Auditorium
+College Bookstore
+College Cafeteria
+College Classroom
+College Communications Building
+College Engineering Building
+College Gym
+College History Building
+College Lab
+College Library
+College Math Building
+College Quad
+College Rec Center
+College Residence Hall
+College Science Building
+College Stadium
+College Technology Building
+College Theater
+College Track
+Comedy Club
+Community College
+Concert Hall
+Conference Room
+Convenience Store
+Convention
+Convention Center
+Cosmetics Shop
+Courthouse
+Coworking Space
+Credit Union
+Cupcake Shop
+Dance Studio
+Daycare
+Deli / Bodega
+Dentist's Office
+Department Store
+Design Studio
+Dessert Shop
+Dim Sum Restaurant
+Diner
+Dive Bar
+Doctor's Office
+Dog Run
+Donut Shop
+Drugstore / Pharmacy
+Dumpling Restaurant
+Eastern European Restaurant
+Electronics Store
+Elementary School
+Embassy / Consulate
+Emergency Room
+Event Space
+Factory
+Fair
+Falafel Restaurant
+Farm
+Farmers Market
+Fast Food Restaurant
+Ferry
+Festival
+Field
+Financial or Legal Service
+Fire Station
+Fish & Chips Shop
+Fish Market
+Flea Market
+Flower Shop
+Food
+Food & Drink Shop
+Food Court
+Food Truck
+Football Stadium
+Fraternity House
+French Restaurant
+Fried Chicken Joint
+Funeral Home
+Furniture / Home Store
+Gaming Cafe
+Garden
+Garden Center
+Gas Station / Garage
+Gastropub
+Gay Bar
+General College & University
+General Entertainment
+General Travel
+German Restaurant
+Gift Shop
+Golf Course
+Gourmet Shop
+Government Building
+Grocery Store
+Gym
+Gym / Fitness Center
+Gym Pool
+Harbor / Marina
+Hardware Store
+High School
+Hiking Trail
+Historic Site
+History Museum
+Hobby Shop
+Home (private)
+Hookah Bar
+Hospital
+Hostel
+Hot Dog Joint
+Hot Spring
+Hotel
+Hotel Bar
+Hotel Pool
+Housing Development
+Ice Cream Shop
+Indian Restaurant
+Indie Movie Theater
+Indie Theater
+Indonesian Restaurant
+Internet Cafe
+Italian Restaurant
+Japanese Restaurant
+Jazz Club
+Jewelry Store
+Juice Bar
+Karaoke Bar
+Kids Store
+Korean Restaurant
+Lake
+Latin American Restaurant
+Laundry Service
+Law School
+Library
+Light Rail
+Lingerie Store
+Liquor Store
+Lounge
+Malaysian Restaurant
+Mall
+Market
+Martial Arts Dojo
+Medical Center
+Medical School
+Mediterranean Restaurant
+Meeting Room
+Men's Store
+Mexican Restaurant
+Middle Eastern Restaurant
+Middle School
+Military Base
+Miscellaneous Shop
+Mobile Phone Shop
+Mongolian Restaurant
+Monument / Landmark
+Mosque
+Motel
+Mountain
+Movie Theater
+Moving Target
+Multiplex
+Museum
+Music Store
+Music Venue
+Nail Salon
+Neighborhood
+New American Restaurant
+Newsstand
+Nightclub
+Nightlife Spot
+Non-Profit
+Nursery School
+Office
+Opera House
+Optical Shop
+Other Great Outdoors
+Other Nightlife
+Outdoors & Recreation
+Paella Restaurant
+Paintball Field
+Paper / Office Supplies Store
+Park
+Parking
+Performing Arts Venue
+Peruvian Restaurant
+Pet Service
+Pet Store
+Photography Lab
+Piano Bar
+Pier
+Pizza Place
+Plane
+Planetarium
+Platform
+Playground
+Plaza
+Police Station
+Pool
+Pool Hall
+Portuguese Restaurant
+Post Office
+Professional & Other Places
+Pub
+Public Art
+Racetrack
+Radio Station
+Ramen /  Noodle House
+Ramen / Noodle House
+Real Estate Office
+Record Shop
+Recycling Facility
+Rental Car Location
+Residential Building (Apartment / Condo)
+Resort
+Rest Area
+Restaurant
+River
+Road
+Rock Climbing Spot
+Rock Club
+Sake Bar
+Salad Place
+Salon / Barbershop
+Sandwich Place
+Scandinavian Restaurant
+Scenic Lookout
+School
+Science Museum
+Sculpture Garden
+Seafood Restaurant
+Shoe Store
+Shop & Service
+Shrine
+Skate Park
+Skating Rink
+Smoke Shop
+Snack Place
+Soccer Field
+Soccer Stadium
+Sorority House
+Soup Place
+South American Restaurant
+Spa / Massage
+Spanish Restaurant
+Speakeasy
+Spiritual Center
+Sporting Goods Shop
+Sports Bar
+Stable
+Stables
+Stadium
+Steakhouse
+Storage Facility
+Strip Club
+Student Center
+Subway
+Sushi Restaurant
+Synagogue
+Taco Place
+Tailor Shop
+Tanning Salon
+Tapas Restaurant
+Taxi
+Tea Room
+Tech Startup
+Temple
+Tennis Court
+Thai Restaurant
+Theater
+Theme Park
+Theme Park Ride / Attraction
+Thrift / Vintage Store
+Tourist Information Center
+Toy / Game Store
+Track
+Track Stadium
+Trade School
+Train
+Train Station
+Travel & Transport
+Travel Agency
+Travel Lounge
+Turkish Restaurant
+University
+Vegetarian / Vegan Restaurant
+Veterinarian
+Video Game Store
+Video Store
+Vietnamese Restaurant
+Vineyard
+Water Park
+Well
+Whisky Bar
+Wine Bar
+Wine Shop
+Winery
+Wings Joint
+Women's Store
+Yoga Studio
+Yogurt
+Zoo
