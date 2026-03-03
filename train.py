@@ -269,7 +269,7 @@ def main():
     full_dataset = CheckinSequenceDataset(processor, max_seq_len=conf.max_seq_len, mode='train')
     logger.info(f"Total trajectories: {len(full_dataset)}")
     indices = list(range(len(full_dataset)))
-    train_idx, test_idx = train_test_split(indices, test_size=conf.test_size, random_state=conf.seed)
+    train_idx, test_idx = train_test_split(indices, test_size=conf.test_size, shuffle=False)
     
 
     train_dataset = Subset(full_dataset, train_idx)
